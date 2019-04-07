@@ -1,0 +1,9 @@
+# ignore css file
+.ccsproject
+.cproject
+.project
+.launches/
+.settings/
+lnk_msp430fr5994.cmd
+targetConfigs/
+Debug/
